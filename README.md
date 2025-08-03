@@ -35,8 +35,8 @@ To run this application on your local machine, you'll need to have a Java Develo
 ### **1. Clone the Repository**
 
 ```bash
-git clone <your-repository-url>
-cd <repository-folder-name>
+git clone https://github.com/YojithReddy17/Ecommerce.git
+cd <Ecommerce.git>
 ```
 
 ### **2. Compile the Code**

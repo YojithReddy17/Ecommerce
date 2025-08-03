@@ -36,7 +36,7 @@ To run this application on your local machine, you'll need to have a Java Develo
 
 ```bash
 git clone https://github.com/YojithReddy17/Ecommerce.git
-cd <Ecommerce.git>
+cd Ecommerce
 ```
 
 ### **2. Compile the Code**

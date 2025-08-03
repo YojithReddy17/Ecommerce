@@ -1,7 +1,3 @@
-Of course. Here is a complete README file for your GitHub repository, formatted in Markdown.
-
------
-
 # Core Java E-Commerce Console Application
 
 This project is a command-line e-commerce application built entirely with Core Java. It demonstrates key object-oriented programming (OOP) principles, clean architecture by separating concerns (model, repository, service), and data persistence through file serialization. It serves as the foundation for a future web application.
@@ -34,7 +30,7 @@ This project is a command-line e-commerce application built entirely with Core J
 
 ## 🚀 Getting Started
 
-To run this application on your local machine, you'll need to have a Java Development Kit (JDK) installed.
+To run this application on your local machine, you'll need to have a Java Development Kit (JDK) installed. (preferablly version more than  java 11 nad higher)
 
 ### **1. Clone the Repository**
 
